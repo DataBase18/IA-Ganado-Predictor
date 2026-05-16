@@ -1,0 +1,501 @@
+raza,edad_anos,num_crias,dias_en_lactancia,epoca,temperatura_c,alimentacion,litros_dia
+Jersey,6,2,72,Seca,28.1,Suplementada,18.67
+Brahman,7,4,258,Lluviosa,32.2,Suplementada,14.06
+Holstein,5,0,161,Lluviosa,28.4,Básica,18.21
+Brahman,3,1,188,Lluviosa,22,Suplementada,16.6
+Pardo Suizo,4,2,244,Lluviosa,25.9,Básica,15.64
+Holstein,5,0,14,Lluviosa,24.6,Suplementada,17.82
+Holstein,5,3,264,Seca,20.9,Básica,17.05
+Holstein,7,5,106,Lluviosa,21.1,Premium,30.13
+Pardo Suizo,5,1,202,Lluviosa,33.8,Premium,23.49
+Holstein,6,1,217,Lluviosa,28.3,Básica,17.67
+Holstein,8,4,65,Seca,34.8,Básica,14.34
+Brahman,2,0,261,Lluviosa,24.1,Básica,10.33
+Simmental,2,0,268,Lluviosa,19.6,Premium,15.98
+Brahman,9,5,35,Seca,24.5,Premium,12.02
+Brahman,2,0,5,Lluviosa,22,Suplementada,14.06
+Jersey,3,1,179,Seca,33.2,Básica,12.79
+Holstein,9,3,222,Seca,22.2,Básica,13.74
+Simmental,8,2,243,Lluviosa,33,Suplementada,16.6
+Pardo Suizo,2,0,134,Lluviosa,31.7,Suplementada,17.96
+Holstein,2,0,231,Lluviosa,19.9,Básica,16.77
+Brahman,2,0,116,Seca,32.6,Premium,13.35
+Jersey,2,0,234,Lluviosa,22.2,Premium,17.86
+Holstein,9,7,233,Lluviosa,24.2,Básica,18.15
+Brahman,4,0,101,Seca,35,Premium,13.04
+Brahman,3,1,54,Seca,22.7,Básica,12.12
+Jersey,3,1,198,Lluviosa,28.1,Premium,28.46
+Pardo Suizo,4,0,255,Lluviosa,24.3,Suplementada,19.71
+Holstein,2,0,201,Lluviosa,26.6,Básica,20.26
+Pardo Suizo,5,2,147,Lluviosa,29,Básica,19
+Simmental,2,0,267,Lluviosa,30.5,Suplementada,16.36
+Simmental,7,1,99,Seca,29.2,Suplementada,16.24
+Holstein,2,0,304,Lluviosa,33.3,Básica,10.22
+Pardo Suizo,8,0,233,Seca,29.9,Premium,16.86
+Pardo Suizo,5,2,113,Lluviosa,31.4,Suplementada,25.05
+Holstein,7,0,99,Seca,18.1,Suplementada,20.79
+Brahman,2,0,161,Lluviosa,22,Básica,12.3
+Holstein,9,7,135,Seca,29.2,Básica,19.5
+Brahman,7,5,158,Lluviosa,34.6,Premium,23.44
+Pardo Suizo,4,2,226,Seca,26.5,Premium,21.7
+Brahman,4,2,192,Seca,18.7,Suplementada,15.51
+Simmental,6,2,233,Seca,33.8,Básica,16.59
+Simmental,5,2,253,Seca,21.2,Básica,16.33
+Holstein,9,1,281,Lluviosa,33.9,Suplementada,15.37
+Jersey,8,2,273,Lluviosa,29.8,Premium,15.97
+Brahman,8,4,170,Seca,25.1,Suplementada,15.59
+Pardo Suizo,2,0,264,Lluviosa,24.7,Suplementada,21.12
+Pardo Suizo,8,6,92,Lluviosa,19.6,Premium,26.06
+Holstein,7,4,150,Lluviosa,32.6,Básica,21.24
+Holstein,7,5,101,Seca,32.1,Básica,18.42
+Holstein,7,2,144,Seca,34.5,Suplementada,18.06
+Holstein,2,0,120,Seca,25.4,Suplementada,17.54
+Holstein,2,0,239,Lluviosa,22.1,Suplementada,21.49
+Brahman,9,4,272,Seca,30.5,Premium,14.94
+Holstein,3,1,86,Seca,23.8,Básica,16.5
+Holstein,7,5,204,Lluviosa,19.7,Básica,19.14
+Jersey,8,1,10,Lluviosa,28.8,Suplementada,12.41
+Holstein,3,1,147,Lluviosa,26.5,Básica,23.49
+Simmental,3,0,160,Seca,31.6,Suplementada,20.66
+Jersey,2,0,179,Seca,34,Premium,17.66
+Holstein,6,4,12,Seca,24.4,Básica,15.62
+Holstein,4,2,90,Lluviosa,24.6,Suplementada,25.63
+Brahman,6,2,217,Seca,34.4,Suplementada,12.29
+Jersey,9,7,227,Seca,30.4,Suplementada,17.9
+Pardo Suizo,9,4,268,Seca,29.6,Premium,15.69
+Pardo Suizo,2,0,286,Seca,27.1,Básica,10.36
+Jersey,5,0,233,Seca,19.6,Premium,19.51
+Simmental,8,3,144,Seca,19.6,Básica,13.3
+Simmental,9,0,39,Seca,33.8,Suplementada,11.65
+Holstein,8,1,133,Seca,33.1,Premium,22.8
+Pardo Suizo,7,5,141,Lluviosa,19.2,Suplementada,25.78
+Pardo Suizo,3,0,29,Seca,22,Básica,13.36
+Simmental,2,0,301,Lluviosa,24,Premium,13.81
+Jersey,5,1,167,Seca,22.2,Premium,23.96
+Holstein,5,1,58,Lluviosa,20,Básica,16.69
+Pardo Suizo,8,0,190,Seca,24.4,Básica,13.45
+Jersey,3,1,173,Lluviosa,27.5,Premium,26.6
+Pardo Suizo,7,4,203,Lluviosa,19.3,Premium,26.68
+Holstein,2,0,14,Seca,25.7,Básica,10.39
+Brahman,4,2,12,Lluviosa,34.2,Suplementada,13.97
+Holstein,5,3,90,Lluviosa,24,Suplementada,26.56
+Holstein,6,0,228,Lluviosa,25.7,Premium,25.01
+Pardo Suizo,5,3,46,Seca,32,Suplementada,17.31
+Jersey,6,0,10,Lluviosa,32.9,Premium,17.25
+Simmental,2,0,267,Seca,30.7,Básica,8.87
+Simmental,4,0,98,Seca,25.1,Básica,15.38
+Brahman,4,0,23,Seca,30.3,Suplementada,12.54
+Pardo Suizo,2,0,85,Lluviosa,21.5,Básica,14.75
+Holstein,2,0,288,Lluviosa,24.1,Premium,18.7
+Brahman,3,1,118,Seca,26.8,Básica,15.07
+Pardo Suizo,2,0,112,Seca,18.5,Premium,22.58
+Pardo Suizo,7,1,75,Seca,33.4,Suplementada,15.78
+Jersey,4,2,249,Lluviosa,25.7,Premium,21.46
+Jersey,8,1,51,Seca,34.1,Suplementada,11.96
+Holstein,9,4,34,Lluviosa,26.4,Básica,16.99
+Holstein,4,2,111,Seca,25.8,Premium,31.05
+Holstein,5,3,281,Seca,32.9,Premium,18.34
+Brahman,3,0,122,Seca,18.7,Básica,9.55
+Holstein,7,0,133,Seca,24.1,Suplementada,17.02
+Jersey,7,1,301,Seca,18.7,Básica,11.36
+Jersey,4,2,48,Seca,18,Básica,13
+Holstein,4,0,180,Seca,27.1,Suplementada,23.29
+Jersey,3,0,154,Lluviosa,20.5,Premium,25.6
+Brahman,8,6,238,Seca,27,Básica,10.09
+Jersey,9,0,119,Seca,21.1,Premium,20.4
+Holstein,8,5,126,Lluviosa,22,Básica,24.51
+Pardo Suizo,6,1,111,Lluviosa,27.1,Suplementada,25.24
+Jersey,9,0,236,Seca,24.4,Básica,13.29
+Jersey,9,2,229,Seca,22,Suplementada,13.81
+Holstein,7,3,95,Lluviosa,33.2,Premium,25.94
+Simmental,8,5,118,Seca,26.3,Suplementada,21.87
+Brahman,2,0,194,Seca,27.1,Suplementada,13.38
+Holstein,7,3,275,Lluviosa,26.6,Básica,13.67
+Jersey,2,0,90,Lluviosa,22.9,Básica,15.1
+Holstein,4,0,178,Lluviosa,20.3,Premium,31.08
+Jersey,3,0,168,Lluviosa,19.5,Premium,28.3
+Jersey,9,5,94,Seca,33.8,Suplementada,17.85
+Brahman,3,1,137,Lluviosa,21.1,Premium,21.66
+Holstein,6,2,229,Lluviosa,31.6,Premium,28.9
+Holstein,6,2,78,Lluviosa,33.4,Básica,17.88
+Pardo Suizo,8,5,288,Seca,28.6,Básica,12.81
+Brahman,8,0,153,Seca,33.3,Premium,12.22
+Holstein,8,2,198,Lluviosa,23.7,Premium,28.26
+Holstein,9,3,15,Seca,28.5,Suplementada,14.67
+Holstein,2,0,289,Lluviosa,21.5,Suplementada,15.22
+Pardo Suizo,4,1,118,Lluviosa,27.1,Premium,30.95
+Holstein,8,3,173,Lluviosa,18.2,Premium,29.85
+Brahman,5,1,299,Seca,23.9,Premium,11.34
+Holstein,8,6,302,Seca,20.6,Básica,12.2
+Holstein,3,0,111,Lluviosa,32.8,Básica,18.62
+Holstein,5,2,51,Seca,19.8,Básica,16.51
+Simmental,8,0,302,Seca,34.7,Suplementada,9.54
+Holstein,7,2,149,Seca,18.9,Básica,16.24
+Holstein,2,0,117,Lluviosa,23.7,Premium,27.64
+Simmental,8,1,17,Lluviosa,21.8,Premium,16.2
+Holstein,9,0,180,Lluviosa,18.6,Básica,19.19
+Brahman,5,1,49,Seca,34.6,Básica,5.7
+Holstein,7,5,63,Seca,21.1,Premium,23.13
+Brahman,4,2,32,Lluviosa,21.2,Básica,11.18
+Jersey,9,7,19,Lluviosa,23,Premium,21.36
+Jersey,3,1,166,Seca,20.6,Básica,12.01
+Holstein,8,6,131,Lluviosa,22.6,Premium,31.48
+Holstein,5,3,178,Seca,29.2,Básica,22.55
+Jersey,4,2,255,Seca,28.1,Básica,12.6
+Brahman,8,1,291,Lluviosa,34.8,Suplementada,9.38
+Pardo Suizo,5,3,165,Lluviosa,21.5,Premium,31.59
+Brahman,2,0,151,Seca,18.5,Básica,9.56
+Pardo Suizo,6,3,82,Lluviosa,33.5,Básica,15.54
+Jersey,8,6,20,Seca,23.9,Suplementada,12.63
+Jersey,6,3,280,Seca,32.8,Premium,16.93
+Jersey,4,0,14,Seca,27.2,Básica,10.28
+Jersey,2,0,246,Lluviosa,32.2,Suplementada,12.46
+Holstein,4,1,146,Lluviosa,20,Básica,22.18
+Holstein,2,0,165,Seca,26.5,Premium,21.53
+Brahman,3,1,237,Seca,26.4,Suplementada,11.81
+Simmental,3,0,190,Lluviosa,25.2,Suplementada,23.2
+Holstein,5,2,282,Seca,24.6,Premium,19.52
+Jersey,2,0,187,Seca,28.4,Suplementada,18.85
+Simmental,6,0,250,Lluviosa,27.2,Premium,22.13
+Jersey,4,0,201,Lluviosa,26.1,Básica,17.25
+Jersey,4,1,25,Seca,19.3,Suplementada,13.59
+Pardo Suizo,5,2,102,Lluviosa,19.8,Básica,17.71
+Jersey,9,2,264,Seca,31.7,Premium,14.84
+Brahman,9,5,200,Seca,33.4,Premium,15.44
+Brahman,9,1,16,Seca,35,Suplementada,7.66
+Jersey,3,0,270,Seca,29.9,Básica,10.63
+Jersey,6,1,223,Lluviosa,18.9,Premium,25.05
+Holstein,3,0,273,Lluviosa,28.1,Premium,21.63
+Pardo Suizo,4,1,183,Seca,19.1,Premium,29.13
+Pardo Suizo,5,0,210,Seca,33.1,Suplementada,16.63
+Jersey,3,1,251,Seca,21.2,Suplementada,17.78
+Simmental,4,2,39,Lluviosa,24,Suplementada,23.12
+Holstein,2,0,266,Lluviosa,25.1,Premium,19.28
+Jersey,2,0,177,Seca,25.9,Suplementada,16.73
+Jersey,9,0,73,Seca,24.5,Premium,18.15
+Simmental,6,4,198,Seca,32.9,Suplementada,21.73
+Simmental,8,3,260,Seca,24.8,Básica,12.37
+Brahman,6,2,107,Lluviosa,24.5,Básica,15.2
+Jersey,6,0,9,Seca,28.2,Básica,8.78
+Holstein,3,0,178,Lluviosa,29.8,Premium,29.1
+Holstein,8,0,68,Lluviosa,32.6,Premium,21.79
+Pardo Suizo,4,2,29,Seca,18.8,Suplementada,16.42
+Brahman,6,2,226,Lluviosa,22.3,Suplementada,17.22
+Holstein,6,1,37,Lluviosa,19.9,Básica,16.58
+Simmental,4,1,40,Seca,32.7,Básica,13
+Pardo Suizo,4,0,59,Seca,20.7,Básica,14.17
+Brahman,8,2,188,Seca,33,Básica,10.87
+Pardo Suizo,4,2,23,Lluviosa,20.2,Premium,21.98
+Holstein,3,1,77,Seca,22.4,Suplementada,20.68
+Holstein,7,2,113,Seca,28.7,Premium,23.73
+Holstein,8,1,233,Lluviosa,32.3,Premium,22.65
+Simmental,6,3,242,Lluviosa,23.1,Básica,19.02
+Jersey,7,1,120,Seca,32.5,Suplementada,16.66
+Simmental,6,3,164,Seca,20.2,Básica,17.22
+Pardo Suizo,8,6,58,Seca,25.6,Suplementada,17.5
+Jersey,5,0,99,Seca,32.5,Premium,20.61
+Holstein,3,0,84,Lluviosa,20.2,Premium,29.97
+Simmental,5,3,92,Seca,34,Básica,12.97
+Holstein,4,2,257,Lluviosa,33.2,Premium,27.01
+Brahman,4,0,281,Lluviosa,24.3,Premium,18.06
+Holstein,2,0,145,Seca,31.2,Premium,18.97
+Jersey,3,1,199,Seca,31.5,Básica,14.01
+Holstein,8,0,236,Lluviosa,25.3,Suplementada,17.2
+Holstein,5,2,214,Lluviosa,23.5,Suplementada,25.68
+Jersey,9,4,274,Lluviosa,24.7,Suplementada,18.01
+Simmental,7,2,301,Seca,32.6,Suplementada,10.74
+Brahman,2,0,76,Seca,27.7,Premium,13.86
+Jersey,7,3,148,Seca,27.5,Suplementada,19
+Holstein,6,0,77,Lluviosa,24.1,Premium,24.82
+Holstein,8,1,174,Lluviosa,31.6,Suplementada,21.68
+Simmental,6,2,123,Lluviosa,28.1,Básica,19.5
+Holstein,9,0,204,Lluviosa,34.1,Suplementada,19.29
+Jersey,4,1,22,Lluviosa,26.2,Premium,21.36
+Jersey,3,1,12,Seca,29.1,Básica,9.73
+Simmental,5,0,221,Seca,25.4,Premium,22.13
+Holstein,7,1,211,Lluviosa,23.6,Básica,16.16
+Jersey,6,4,207,Seca,32.3,Básica,15.73
+Pardo Suizo,8,1,24,Lluviosa,28.7,Suplementada,14.85
+Jersey,6,1,228,Lluviosa,28.2,Suplementada,22.24
+Brahman,4,2,186,Lluviosa,24.1,Premium,24.21
+Brahman,4,1,8,Lluviosa,33.5,Premium,14.19
+Brahman,7,5,2,Seca,25,Suplementada,6.98
+Pardo Suizo,8,5,231,Seca,29.3,Premium,21.97
+Holstein,4,0,28,Lluviosa,32.6,Básica,15.28
+Holstein,6,2,10,Seca,25.5,Suplementada,14.81
+Jersey,5,1,257,Seca,22.2,Premium,17.09
+Brahman,8,4,204,Seca,31.3,Premium,13.53
+Pardo Suizo,5,2,130,Seca,27,Suplementada,23.14
+Holstein,2,0,179,Lluviosa,29.7,Básica,16.87
+Jersey,4,2,126,Lluviosa,23.5,Básica,19.14
+Jersey,3,0,294,Lluviosa,20.1,Suplementada,16.03
+Holstein,9,1,234,Lluviosa,29.4,Suplementada,20.63
+Holstein,7,4,86,Seca,29.8,Premium,22.95
+Simmental,4,1,114,Lluviosa,28.5,Premium,27.25
+Simmental,7,3,289,Seca,21.7,Suplementada,12.98
+Jersey,6,0,90,Lluviosa,29.2,Suplementada,17.62
+Pardo Suizo,2,0,176,Seca,31.3,Básica,14.11
+Holstein,4,1,102,Lluviosa,33.7,Premium,28.63
+Pardo Suizo,4,0,129,Lluviosa,23,Premium,29.07
+Holstein,8,0,76,Lluviosa,24.7,Básica,17.06
+Jersey,9,0,291,Lluviosa,18.2,Premium,11.73
+Brahman,7,5,265,Seca,27.2,Suplementada,11.13
+Holstein,5,0,304,Seca,22.2,Premium,16.28
+Jersey,8,5,302,Lluviosa,30.2,Premium,16.29
+Simmental,8,3,277,Seca,24,Suplementada,14.4
+Holstein,5,3,52,Lluviosa,23.2,Premium,32.81
+Holstein,7,1,2,Seca,34.6,Suplementada,12.07
+Holstein,4,2,108,Lluviosa,31.6,Premium,29.93
+Jersey,3,1,36,Lluviosa,26.2,Premium,21.42
+Pardo Suizo,5,3,173,Lluviosa,19.9,Básica,23.35
+Pardo Suizo,2,0,26,Seca,29,Suplementada,12.48
+Jersey,3,1,152,Lluviosa,27.5,Premium,27.04
+Pardo Suizo,5,2,202,Seca,19.6,Suplementada,22.48
+Jersey,3,0,175,Seca,30.5,Suplementada,21.67
+Holstein,6,2,160,Seca,21.9,Suplementada,21.88
+Brahman,2,0,254,Seca,34.8,Premium,12.83
+Jersey,6,0,241,Seca,34.9,Suplementada,15.33
+Holstein,3,1,42,Lluviosa,22.7,Suplementada,22.37
+Jersey,2,0,136,Seca,21.9,Básica,10.97
+Brahman,6,0,130,Lluviosa,31.6,Premium,16.78
+Jersey,4,1,300,Seca,25.8,Suplementada,13.7
+Brahman,8,3,258,Lluviosa,27.5,Suplementada,10.19
+Jersey,3,1,287,Seca,21.4,Suplementada,12.59
+Holstein,2,0,55,Lluviosa,18,Premium,20.17
+Simmental,9,7,121,Lluviosa,26.9,Suplementada,23.56
+Holstein,9,6,288,Seca,28.3,Suplementada,15.46
+Holstein,2,0,258,Seca,22.1,Básica,11.42
+Holstein,5,1,154,Lluviosa,32.8,Suplementada,24.88
+Simmental,6,3,12,Seca,24.8,Suplementada,16.04
+Pardo Suizo,4,1,216,Lluviosa,32.8,Suplementada,20.05
+Pardo Suizo,8,4,163,Lluviosa,20.6,Premium,28.17
+Holstein,5,1,256,Lluviosa,32,Básica,13.15
+Brahman,2,0,110,Lluviosa,31,Básica,10.17
+Holstein,4,0,25,Seca,24.2,Básica,12.72
+Simmental,9,3,141,Seca,26.6,Suplementada,20.09
+Holstein,8,5,160,Seca,18.3,Suplementada,22.43
+Holstein,4,1,266,Seca,19,Premium,22.07
+Pardo Suizo,8,6,83,Seca,20.4,Básica,14.46
+Holstein,9,3,97,Lluviosa,28.8,Básica,20.21
+Holstein,5,3,221,Lluviosa,29.1,Suplementada,25.11
+Pardo Suizo,7,4,7,Seca,25,Suplementada,12.67
+Holstein,6,4,183,Lluviosa,20.3,Básica,23.89
+Jersey,2,0,13,Seca,32.2,Básica,8.37
+Simmental,3,0,173,Lluviosa,26.3,Premium,28.7
+Jersey,9,6,117,Lluviosa,20.2,Suplementada,21.12
+Holstein,5,1,232,Seca,24.4,Básica,18.71
+Pardo Suizo,2,0,192,Seca,29.2,Básica,12.69
+Brahman,5,3,29,Seca,32.3,Suplementada,12.25
+Pardo Suizo,8,1,264,Seca,25.7,Básica,9.98
+Brahman,5,2,173,Seca,19.8,Básica,11.85
+Holstein,8,2,109,Seca,19.2,Básica,16.05
+Simmental,6,1,228,Seca,34.5,Premium,17.64
+Holstein,6,4,8,Lluviosa,25.2,Premium,24.73
+Holstein,5,0,223,Lluviosa,31.1,Básica,17.4
+Simmental,8,5,255,Lluviosa,23.5,Premium,23.3
+Simmental,7,4,181,Lluviosa,30.7,Suplementada,21.35
+Simmental,8,0,153,Lluviosa,25.3,Suplementada,18.38
+Brahman,7,3,213,Lluviosa,21.4,Suplementada,13.61
+Pardo Suizo,5,0,18,Seca,30.8,Básica,12
+Simmental,7,5,135,Seca,29.2,Premium,26.19
+Holstein,5,0,269,Lluviosa,19.8,Básica,14.44
+Brahman,4,1,95,Seca,26.6,Básica,13.67
+Brahman,4,2,118,Seca,20.6,Suplementada,14.94
+Pardo Suizo,8,0,128,Seca,20.7,Suplementada,18.98
+Brahman,4,0,104,Seca,24.8,Suplementada,14.28
+Brahman,2,0,10,Seca,30.5,Premium,11.41
+Jersey,2,0,86,Lluviosa,30.9,Suplementada,17.66
+Pardo Suizo,7,5,121,Lluviosa,30.9,Premium,28.74
+Jersey,4,0,186,Lluviosa,24.6,Suplementada,22.5
+Pardo Suizo,4,1,293,Lluviosa,25,Premium,21.08
+Holstein,8,6,4,Seca,28.9,Básica,10.71
+Jersey,8,3,254,Lluviosa,29.5,Suplementada,16.48
+Holstein,8,5,211,Lluviosa,29.8,Suplementada,25.08
+Simmental,6,3,192,Seca,25.5,Suplementada,20.95
+Holstein,5,0,251,Lluviosa,30.5,Premium,21.47
+Brahman,7,4,161,Seca,28.8,Premium,17.23
+Pardo Suizo,4,2,137,Lluviosa,28,Básica,19.25
+Jersey,3,1,259,Seca,29.9,Suplementada,14.32
+Jersey,6,2,245,Seca,22.4,Suplementada,18.66
+Holstein,6,4,49,Seca,25.8,Básica,18.5
+Holstein,8,1,129,Lluviosa,30.4,Suplementada,24.18
+Holstein,7,3,188,Seca,30.8,Básica,16.03
+Holstein,4,2,220,Lluviosa,22.2,Suplementada,25.89
+Jersey,2,0,205,Lluviosa,19.1,Básica,15.89
+Holstein,3,0,7,Lluviosa,33.3,Suplementada,17.81
+Brahman,4,2,199,Seca,18.9,Suplementada,16.55
+Holstein,9,0,161,Lluviosa,30.2,Premium,23.65
+Holstein,8,5,289,Seca,34.7,Básica,11.68
+Holstein,7,0,17,Lluviosa,19.4,Suplementada,15.98
+Pardo Suizo,3,0,5,Lluviosa,29.3,Básica,10.75
+Jersey,6,3,294,Lluviosa,24.1,Premium,22.88
+Holstein,8,0,32,Seca,32.8,Suplementada,14.35
+Jersey,9,7,213,Seca,33,Suplementada,15.78
+Holstein,2,0,168,Lluviosa,30.8,Básica,18.1
+Jersey,5,2,262,Seca,29.2,Básica,12.56
+Jersey,4,2,197,Seca,21.3,Suplementada,19.78
+Pardo Suizo,6,4,72,Seca,28.9,Premium,23.81
+Simmental,9,1,42,Lluviosa,29.8,Suplementada,16.5
+Simmental,3,0,40,Lluviosa,20.4,Básica,13.41
+Holstein,9,4,176,Seca,23.3,Suplementada,21.58
+Pardo Suizo,5,2,302,Seca,34.4,Premium,14.57
+Jersey,6,4,158,Seca,23.5,Suplementada,23.52
+Holstein,5,0,154,Lluviosa,24.4,Premium,30.34
+Holstein,6,0,134,Seca,30.9,Básica,18.8
+Jersey,6,1,131,Lluviosa,23.7,Suplementada,23.02
+Holstein,5,3,218,Lluviosa,30.2,Premium,30.99
+Jersey,3,0,279,Lluviosa,27.8,Básica,11.22
+Pardo Suizo,4,1,271,Seca,28.8,Básica,10.58
+Brahman,5,2,201,Lluviosa,21.9,Premium,23.2
+Holstein,8,2,4,Lluviosa,26.7,Suplementada,14.24
+Pardo Suizo,6,3,142,Lluviosa,32.8,Premium,29.11
+Pardo Suizo,5,0,207,Lluviosa,29.1,Suplementada,22.71
+Holstein,9,5,38,Lluviosa,32.7,Suplementada,21.87
+Jersey,7,5,84,Seca,18.7,Suplementada,18.05
+Pardo Suizo,4,1,275,Seca,32.3,Básica,11.86
+Simmental,8,0,251,Lluviosa,32.1,Premium,18.1
+Holstein,7,0,161,Lluviosa,22.8,Suplementada,25.04
+Jersey,4,0,222,Seca,18.8,Suplementada,18.67
+Pardo Suizo,8,6,183,Lluviosa,22.1,Básica,22.25
+Holstein,5,2,267,Lluviosa,31.4,Básica,15.1
+Pardo Suizo,4,0,201,Seca,18.6,Premium,23.17
+Pardo Suizo,9,7,65,Lluviosa,26.8,Premium,23.87
+Holstein,5,0,232,Seca,28.7,Básica,15.32
+Brahman,5,2,28,Lluviosa,24.5,Básica,10.41
+Simmental,9,6,262,Lluviosa,22.3,Básica,12.52
+Holstein,7,1,283,Lluviosa,22.1,Suplementada,14.05
+Brahman,6,3,177,Seca,27.1,Básica,13.16
+Holstein,7,2,90,Seca,31.6,Básica,13.62
+Holstein,2,0,265,Lluviosa,19.5,Básica,11.55
+Pardo Suizo,6,2,59,Seca,27.8,Premium,24.99
+Simmental,6,4,1,Lluviosa,25.2,Básica,13.31
+Brahman,5,0,240,Seca,32,Premium,14.91
+Holstein,5,1,146,Lluviosa,29.3,Básica,22.26
+Jersey,3,0,147,Seca,25.1,Básica,16.06
+Brahman,2,0,202,Lluviosa,33.1,Básica,9.64
+Holstein,3,0,118,Seca,28.4,Premium,25.19
+Simmental,7,2,296,Lluviosa,18.2,Suplementada,14.3
+Jersey,4,0,301,Seca,18.7,Básica,8.58
+Jersey,9,0,294,Lluviosa,24.6,Premium,15.61
+Jersey,4,0,73,Seca,32.6,Suplementada,17.24
+Pardo Suizo,5,3,41,Seca,19.7,Premium,20.97
+Jersey,3,0,118,Lluviosa,24.7,Premium,24.21
+Brahman,6,0,193,Seca,20.6,Básica,11.37
+Jersey,3,1,126,Seca,23.3,Suplementada,19.94
+Pardo Suizo,9,3,31,Lluviosa,20.8,Suplementada,18.55
+Jersey,9,7,67,Seca,20.3,Suplementada,15.72
+Holstein,4,0,245,Lluviosa,20.2,Suplementada,21.29
+Holstein,3,1,35,Seca,25.6,Suplementada,15.2
+Holstein,5,0,165,Seca,27.4,Suplementada,20.2
+Holstein,6,2,42,Lluviosa,22.4,Premium,26.65
+Brahman,6,3,139,Seca,27.3,Básica,11.42
+Jersey,9,4,111,Lluviosa,26.3,Premium,27.39
+Holstein,7,0,152,Lluviosa,25.8,Premium,28.06
+Jersey,5,0,145,Seca,27.2,Premium,23.31
+Jersey,7,4,47,Lluviosa,18.6,Suplementada,16.36
+Pardo Suizo,5,0,184,Lluviosa,25.9,Suplementada,23.7
+Jersey,9,5,183,Lluviosa,26.4,Premium,27.85
+Holstein,9,6,203,Lluviosa,26.4,Suplementada,27.22
+Jersey,5,2,175,Seca,28.1,Premium,25.41
+Simmental,9,6,116,Seca,25.5,Básica,14.82
+Holstein,4,2,13,Seca,28.7,Premium,17.96
+Brahman,3,1,22,Seca,18.5,Premium,11.55
+Holstein,9,3,194,Seca,22.7,Suplementada,21.81
+Simmental,8,2,19,Lluviosa,29.5,Básica,11.17
+Brahman,8,4,141,Lluviosa,33.9,Básica,11.7
+Pardo Suizo,5,2,194,Seca,19.5,Básica,15.74
+Brahman,8,5,75,Seca,27.3,Suplementada,15.12
+Pardo Suizo,6,1,45,Seca,19.7,Suplementada,15.87
+Jersey,3,1,144,Lluviosa,18.9,Suplementada,23.06
+Brahman,9,6,290,Seca,24.8,Premium,12.1
+Simmental,6,4,295,Seca,27.3,Suplementada,16.28
+Simmental,6,2,53,Seca,29,Suplementada,18.13
+Pardo Suizo,3,1,54,Lluviosa,28.8,Suplementada,18.51
+Holstein,5,1,53,Lluviosa,22.9,Suplementada,20.53
+Pardo Suizo,3,1,119,Seca,22.8,Suplementada,20.86
+Pardo Suizo,8,2,204,Seca,23.4,Premium,22.31
+Brahman,7,5,209,Seca,27.9,Básica,10.69
+Holstein,5,0,157,Lluviosa,19.7,Básica,21.27
+Pardo Suizo,5,3,141,Seca,33.5,Premium,23.24
+Holstein,3,0,218,Seca,24.6,Premium,25.33
+Holstein,6,4,235,Seca,21.1,Premium,29.35
+Simmental,8,0,94,Seca,19.8,Premium,18.77
+Jersey,9,0,303,Lluviosa,21.6,Suplementada,10.08
+Pardo Suizo,2,0,13,Lluviosa,27.4,Premium,14.5
+Pardo Suizo,7,5,100,Seca,30.8,Básica,17.44
+Holstein,9,7,263,Lluviosa,30.6,Suplementada,18.53
+Brahman,7,0,21,Lluviosa,18.7,Básica,10.42
+Holstein,7,5,138,Seca,22.5,Básica,17.42
+Simmental,3,1,138,Seca,26.4,Premium,26.02
+Holstein,5,1,24,Seca,25.9,Suplementada,19.51
+Holstein,5,3,175,Seca,26.9,Suplementada,25.92
+Pardo Suizo,7,4,170,Seca,24.5,Básica,15.89
+Holstein,6,0,33,Seca,26.8,Básica,12.34
+Jersey,9,7,43,Seca,29,Premium,18.97
+Jersey,9,0,217,Lluviosa,25.8,Suplementada,18.5
+Holstein,9,2,157,Lluviosa,28.3,Básica,19.26
+Holstein,3,1,119,Seca,27,Suplementada,25.56
+Brahman,9,3,278,Seca,21.5,Suplementada,9.58
+Brahman,3,0,301,Seca,20.5,Básica,6.74
+Jersey,5,2,49,Seca,33.6,Suplementada,16.3
+Brahman,3,1,241,Lluviosa,18.1,Básica,12
+Jersey,7,0,226,Seca,24,Suplementada,13.69
+Holstein,7,5,210,Lluviosa,27.3,Básica,21.13
+Jersey,4,1,6,Seca,26.2,Básica,9.39
+Simmental,9,3,252,Lluviosa,24.9,Premium,22.77
+Simmental,2,0,139,Seca,25.4,Premium,19.36
+Holstein,7,3,108,Seca,30.4,Básica,15.18
+Simmental,4,2,245,Lluviosa,34.6,Premium,23.58
+Pardo Suizo,5,2,94,Seca,25.8,Básica,16.09
+Holstein,9,1,93,Lluviosa,28.3,Básica,15.41
+Holstein,3,0,91,Lluviosa,25.3,Básica,20.28
+Jersey,5,0,173,Lluviosa,33.3,Suplementada,20.88
+Simmental,9,0,93,Seca,24.3,Básica,12.21
+Holstein,4,0,91,Lluviosa,24.1,Suplementada,21.45
+Pardo Suizo,2,0,58,Lluviosa,33.6,Premium,20.07
+Jersey,4,0,105,Seca,18.6,Básica,15.24
+Holstein,5,0,256,Seca,27.6,Básica,12.98
+Jersey,3,0,109,Lluviosa,25.3,Premium,27.83
+Jersey,8,1,116,Seca,28,Básica,12.65
+Holstein,9,6,46,Lluviosa,28.8,Premium,21.86
+Pardo Suizo,9,6,189,Lluviosa,29.8,Suplementada,23.82
+Pardo Suizo,3,0,181,Lluviosa,22.9,Básica,19.61
+Holstein,3,1,103,Lluviosa,18.2,Premium,27.55
+Pardo Suizo,7,3,38,Seca,29.3,Premium,19.65
+Brahman,7,5,25,Lluviosa,31.9,Suplementada,11.01
+Holstein,9,2,47,Lluviosa,24.9,Suplementada,21.49
+Brahman,4,2,287,Lluviosa,30.1,Premium,11.97
+Holstein,7,0,139,Lluviosa,18.7,Básica,18.49
+Brahman,4,0,102,Seca,26.7,Básica,10.86
+Holstein,2,0,88,Lluviosa,29.9,Premium,24.81
+Brahman,8,4,126,Seca,22.7,Premium,17.52
+Holstein,2,0,141,Lluviosa,23.7,Básica,18.46
+Brahman,8,4,183,Lluviosa,26.4,Premium,21.64
+Jersey,5,3,128,Lluviosa,24.5,Premium,29.8
+Pardo Suizo,2,0,270,Lluviosa,25.4,Premium,18.31
+Jersey,7,0,168,Seca,25.3,Básica,13.99
+Holstein,9,5,147,Lluviosa,21.9,Premium,34.08
+Pardo Suizo,5,2,151,Lluviosa,32.8,Premium,27.01
+Holstein,8,2,114,Lluviosa,34.7,Premium,24.72
+Holstein,9,7,124,Seca,27.3,Suplementada,21.66
+Jersey,7,0,5,Seca,32.9,Básica,6.62
+Holstein,4,0,50,Lluviosa,23.7,Suplementada,20.27
+Jersey,5,0,141,Lluviosa,29.4,Premium,25.7
+Holstein,8,2,128,Lluviosa,28.2,Básica,19.94
+Simmental,9,1,62,Seca,34.6,Suplementada,12.61
+Simmental,6,3,169,Seca,21.2,Básica,18.26
+Holstein,4,1,98,Seca,30.6,Suplementada,18.86
+Holstein,3,1,22,Lluviosa,28.3,Premium,22.52
+Brahman,4,2,290,Lluviosa,34.4,Premium,11.91
+Jersey,2,0,48,Lluviosa,23.3,Premium,19.5
+Simmental,3,0,266,Seca,34.1,Suplementada,13.57
+Simmental,6,2,248,Lluviosa,28.6,Suplementada,19.32
+Holstein,5,2,137,Lluviosa,34,Suplementada,27.84
+Jersey,6,1,288,Lluviosa,34.6,Básica,13.44
+Holstein,5,2,127,Seca,25.4,Premium,29.27
+Pardo Suizo,4,0,248,Lluviosa,28.4,Básica,17.22
+Holstein,8,0,245,Seca,18.9,Premium,20.64
+Holstein,2,0,69,Seca,22.2,Premium,22.32
+Brahman,4,1,94,Lluviosa,23.7,Suplementada,16.2
+Pardo Suizo,4,2,77,Lluviosa,21.4,Suplementada,20.48
+Simmental,9,2,209,Seca,21.5,Premium,20.89
