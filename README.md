@@ -19,8 +19,7 @@ Este es un problema de **regresion supervisada**: la salida es un valor continuo
 El dataset fue generado sinteticamente con 500 registros. Cada registro representa una vaca con las siguientes columnas:
 
 | Columna | Tipo | Descripcion |
-|---|---|---|
-| id_vaca | string | Identificador unico |
+|---|---|---| 
 | raza | categorica | Holstein, Jersey, Brahman, Pardo Suizo, Simmental |
 | edad_anios | numerico | Edad de la vaca en anios (2 a 10) |
 | num_crias | numerico | Numero de partos previos |
